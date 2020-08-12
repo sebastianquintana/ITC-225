@@ -1,3 +1,5 @@
+from person import personid
+
 class costumer():
     def __init__ (self, costumerid,personid,reservation,roomid,paymentid,roocardaccessid):
       self.costumerid = costumerid
